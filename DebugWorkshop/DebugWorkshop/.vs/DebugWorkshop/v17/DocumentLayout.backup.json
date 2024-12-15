@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}|Shapes\\Shapes.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\Shapes\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}|Shapes\\Shapes.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\Shapes\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54691FC-CC8B-45A6-9C48-DBA9DEC33B54}|LoopAgain\\LoopAgain.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\LoopAgain\\LoopAgain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E54691FC-CC8B-45A6-9C48-DBA9DEC33B54}|LoopAgain\\LoopAgain.vcxproj|solutionrelative:LoopAgain\\LoopAgain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\Shapes\\triangle.cpp",
+              "RelativeDocumentMoniker": "Shapes\\triangle.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\Shapes\\triangle.cpp",
+              "RelativeToolTip": "Shapes\\triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T17:49:11.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "triangle.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\Shapes\\triangle.h",
+              "RelativeDocumentMoniker": "Shapes\\triangle.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\Shapes\\triangle.h",
+              "RelativeToolTip": "Shapes\\triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T17:44:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoopAgain.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\LoopAgain\\LoopAgain.cpp",
+              "RelativeDocumentMoniker": "LoopAgain\\LoopAgain.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\LoopAgain\\LoopAgain.cpp",
+              "RelativeToolTip": "LoopAgain\\LoopAgain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T17:35:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.h",
+              "RelativeDocumentMoniker": "MyPointExactly\\Point.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.h",
+              "RelativeToolTip": "MyPointExactly\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T16:23:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\main.cpp",
+              "RelativeDocumentMoniker": "MyPointExactly\\main.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\main.cpp",
+              "RelativeToolTip": "MyPointExactly\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T16:22:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.cpp",
+              "RelativeDocumentMoniker": "MyPointExactly\\Point.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\Magshimim-class6\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.cpp",
+              "RelativeToolTip": "MyPointExactly\\Point.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T16:17:09.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
